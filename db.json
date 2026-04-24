@@ -1,0 +1,78 @@
+{
+  "orders": [
+    {
+      "customerName": "Alice",
+      "item": "Laptop",
+      "quantity": 1,
+      "id": "6TmoTa0yKek"
+    },
+    {
+      "customerName": "",
+      "id": "dh-ykWww0CY"
+    },
+    {
+      "customerName": "Bob",
+      "item": "Tablet",
+      "quantity": 2,
+      "id": "SC4k84UoQqA"
+    },
+    {
+      "customerName": "Charlie",
+      "item": "Phone",
+      "quantity": 3,
+      "id": "Syk6fnoIQW4"
+    },
+    {
+      "customerName": "John Doe",
+      "item": "Phone",
+      "quantity": 1,
+      "status": "Pending",
+      "id": "GgzChconZXY"
+    },
+    {
+      "customerName": "",
+      "id": "7JuCcX_d4RA"
+    },
+    {
+      "customerName": "Alice",
+      "item": "Laptop",
+      "quantity": 1,
+      "id": "H73cqxW4_Ws"
+    },
+    {
+      "customerName": "Bob",
+      "item": "Tablet",
+      "quantity": 2,
+      "id": "7ElTIiGAQUM"
+    },
+    {
+      "customerName": "Charlie",
+      "item": "Phone",
+      "quantity": 3,
+      "id": "GYDoMf38q58"
+    },
+    {
+      "customerName": "",
+      "id": "KDXcH_px_Bw"
+    },
+    {
+      "customerName": "Alice",
+      "item": "Laptop",
+      "quantity": 1,
+      "id": "an5Iv0ZOaPM"
+    },
+    {
+      "customerName": "Bob",
+      "item": "Tablet",
+      "quantity": 2,
+      "id": "5O6CnrmqwOA"
+    },
+    {
+      "customerName": "Charlie",
+      "item": "Phone",
+      "quantity": 3,
+      "id": "gmhwFROdpfE"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
