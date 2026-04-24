@@ -94,3 +94,14 @@ This framework demonstrates:
 - Real-world testing patterns
 - Scalable test design
 - Clean separation of concerns
+
+
+
+## AI Prompts
+1.Create a simple API automation framework using Playwright and a built in API
+2.Ensure the framework supports REST API with the following: create order, retrieve order by orderid and update order status
+3.Include validation and logging
+4.Create automated tests that include happy path, Negative and edge-case scenarios, data driven testing and JSON/response structure validation
+5. Help me step by step setup git repo
+6. Summarise the steps for readme.md and solution.md files
+
