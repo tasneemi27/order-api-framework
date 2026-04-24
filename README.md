@@ -30,8 +30,8 @@ Open a second terminal:
 npx playwright test
 
 API Endpoints used
-| Method | Endpoint | Description |
-|----- |---------------|-------------|
+| Method | Endpoint    | Description |
+|-----   |-------------|-------------|
 | POST   | /orders     | Create Order|              
 | GET    | /orders/:id | Get Order   |
 | PATCH  | /orders/:id | Update Order|
